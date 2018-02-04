@@ -1,0 +1,6 @@
+-*-   td_systable 1.0  *   Copyright (c) Gazlan, 2015   -*-
+
+TECDOC_CD_3_2015 DB SysTable dumper
+
+Usage: td_systable.com
+complains_n_suggestions direct to gazlan@yandex.ru

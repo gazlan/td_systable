@@ -1,0 +1,5 @@
+*.obj
+*.com
+*.pch
+*.idb
+*.exe
